@@ -1,7 +1,7 @@
 import java.util.Collections;
 import java.util.List;
 
-public class MinMaxView {
+public class MinMaxView implements Observer {
 
     private ScoreRecord scoreRecord;
 
